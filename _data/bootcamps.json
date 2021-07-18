@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Devworks Bootcamp 14",
+        "description": "Devworks is a functions part on Node server",
+        "website": "http://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "233 Bay State Rd Bostom MA 02215",
+        "carrers": [
+            "Web Development",
+            "UI/UX",
+            "Data Science",
+            "Business"
+        ],
+        "housing": true,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    },
+    {
+        "name": "Devworks Bootcamp 15",
+        "description": "Devworks is a functions part on Node server",
+        "website": "http://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "230 Pawtucket St, Lowell, MA 01854",
+        "carrers": [
+            "Web Development",
+            "Mobile Development",
+            "UI/UX",
+            "Business"
+        ],
+        "housing": true,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    },
+    {
+        "name": "Devworks Bootcamp 16",
+        "description": "Devworks is a functions part on Node server",
+        "website": "http://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "85 South Prospect Street Burlington VT 05405",
+        "carrers": [
+            "Web Development",
+            "UI/UX",
+            "Data Science",
+            "Business"
+        ],
+        "housing": true,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    },
+    {
+        "name": "Devworks Bootcamp 17",
+        "description": "Devworks is a functions part on Node server",
+        "website": "http://devworks.com",
+        "email": "enroll@devworks.com",
+        "address": "45 Upper College Rd Kingston RI 02881",
+        "carrers": [
+            "Mobile Development",
+            "Data Science",
+            "Web Development",
+            "UI/UX",
+            "Business"
+        ],
+        "housing": true,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    }
+]

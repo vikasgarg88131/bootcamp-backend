@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Front End Web Development",
+        "description": "This course will provide you all the essentials to become a successful frontend web developer.",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "60ead5a609f6003884d36ebf"
+    },
+    {
+        "title": "Front End Web Development 2",
+        "description": "This course will provide you all the essentials to become a successful frontend web developer.",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "60ead5a609f6003884d36ebf"
+    },
+    {
+        "title": "Front End Web Development 3",
+        "description": "This course will provide you all the essentials to become a successful frontend web developer.",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "60ead5a609f6003884d36ec0"
+    },
+    {
+        "title": "Front End Web Development 4",
+        "description": "This course will provide you all the essentials to become a successful frontend web developer.",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "60ead5a609f6003884d36ec0"
+    },
+    {
+        "title": "Front End Web Development 5",
+        "description": "This course will provide you all the essentials to become a successful frontend web developer.",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "60ead5a609f6003884d36ec1"
+    }
+]
